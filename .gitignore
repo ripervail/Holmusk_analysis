@@ -1,0 +1,5 @@
+# Ignore my logbook file
+logbook.docx
+
+# Ignore the raw dataset for now
+raw_df.csv
