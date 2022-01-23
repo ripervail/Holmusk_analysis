@@ -3,3 +3,9 @@ logbook.docx
 
 # Ignore the raw dataset for now
 raw_df.csv
+
+# Ignore presentation slides
+NeoJunHao_Presentation.pptx
+
+# Ignore Pictures folder
+Pictures/
